@@ -1,12 +1,19 @@
-## Hi there 👋
+# Company Capstone Team CH2-PS124
 
-<!--
+Sup guys, we are the CH2-PS124 team from Bangkit Academy 2023.
 
-**Here are some ideas to get you started:**
+This repository is to work on the Capstone Project.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Team Member
+
+Name | Bangkit ID | Learning Path | Github Profile
+:---|:---:|:---:|---:
+Abib Raifmuaffah Ihwan | M323BSY0169 | Machine Learning | [Profile](https://github.com/)
+Rifando Adeyansa Purba| M387BSY0100 | Machine Learning | [Profile](https://https://github.com/rfando)
+Hijra S. Otji | M323BSX1176 | Machine Learning | [Profile](https://github.com/)
+Raafi Hilmi |  A193BSY2404 | Mobile Development | [Profile](https://github.com/raafihilmi)
+Fadly Ramdhani | A012BSY2415 | Mobile Development | [Profile](https://github.com/)
+Faiz Aditya Kurniawan | C193BSY3573 | Cloud Computing | [Profile](https://github.com/)
+Asep Permadi | C323BSY3388 | Cloud Computing | [Profile](https://github.com/)
+
+Feel free to contact us if you want to reach us.
